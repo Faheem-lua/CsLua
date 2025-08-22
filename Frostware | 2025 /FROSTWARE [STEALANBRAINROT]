@@ -1,0 +1,15 @@
+#1 steal a brainrot script. It contains
+
+[+] God mode
+[+] Anti Ragdoll
+[+] Infinite Jump
+[+] OP steal helpers
+[+] Speed coil buff
+[+] invisibility clock buff
+[+] Auto buyer
+[+] Brainrot ESP
+[+] Player ESP
+[+] Plot ESP(shows unlock time too)
+[+] Many more
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jake-Brock/Scripts/main/Fw%20SAB.lua",true))()
