@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Actualmrp/Grow-a-Garden-Frostware-Source/refs/heads/main/1dec934215e4154b.lua.txt"))()
