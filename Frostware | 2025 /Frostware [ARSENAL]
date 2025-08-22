@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Snowie3310/Frostware/main/Arsenal.lua",true))()
+
