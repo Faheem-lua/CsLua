@@ -1,0 +1,19 @@
+# Frostware  
+
+**Frostware** is a modern and universal Roblox scripting and execution framework, developed with the goal of providing a reliable, safe, and next-generation experience for the community. After extensive research into existing solutions, Frostware introduces an advanced approach to script execution, cross-platform support, and long-term maintainability.  
+
+---
+
+## Features  
+- **Universal Compatibility** – Works across a wide range of Roblox games.  
+- **Modern Development** – Built using current best practices for performance and security.  
+- **Safe & Reliable** – Designed with stability and protection as the highest priority.  
+- **Community-Driven** – Developed in collaboration with user feedback and contributions.  
+
+---
+
+## Getting Started  
+To load Frostware into your environment, use the following command:  
+
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Fsploit/F-R-O-S-T-W-A-R-E/refs/heads/main/Main"))()
