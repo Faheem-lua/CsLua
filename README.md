@@ -39,4 +39,4 @@ CjLua aims to fix that by serving as a **central hub for modern Lua scripts and 
 ## ⚡ Installation
 Clone the repository:
 ```bash
-git clone https://github.com/yourname/CjLua.git
+git clone https://github.com/Faheem-Lua/CsLua
